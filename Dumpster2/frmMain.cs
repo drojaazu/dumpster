@@ -270,11 +270,6 @@ namespace Dumpster2
             this.ColorsDock.AddPalette(_temp);
         }
 
-        private void mnuDebugTesting_Click(object sender, EventArgs e)
-        {
-            new frmTesting().Show();
-        }
-
         private void mnuMapClose_Click(object sender, EventArgs e)
         {
             this.MapDock.CloseMap();

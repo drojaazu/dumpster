@@ -327,7 +327,6 @@
             this.mnuDebugTesting.Name = "mnuDebugTesting";
             this.mnuDebugTesting.Size = new System.Drawing.Size(149, 22);
             this.mnuDebugTesting.Text = "Testing";
-            this.mnuDebugTesting.Click += new System.EventHandler(this.mnuDebugTesting_Click);
             // 
             // frmMain
             // 
