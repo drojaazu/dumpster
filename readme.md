@@ -4,4 +4,4 @@ Dumpster is a tool for converting and dumping chunks of data inside a media imag
 
 Dumpster and dumplib both are very much WIP! Documentation is forthcomuing.
 
-NOTE: This project is OLD and ABANDONED. Please see the chrgfx for its spiritual successor.
+NOTE: This project is OLD and ABANDONED. Please see the chrgfx repository for its spiritual successor.
